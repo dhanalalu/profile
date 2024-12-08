@@ -4,7 +4,7 @@
 
 - I am currently pursuing a **B.Tech in Computer Science and Engineering** . 
 - I have a strong interest in becoming a **software developer**.
-- 📔Here's my : <img src="https://dhanalalu.github.io/dhanaport/">
+- 📔Here's my : [Protofolio](img src="https://dhanalalu.github.io/dhanaport/)
 - how to Reach me:
 [linkedin](https://www.linkedin.com/in/dhanalakshmi1903?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
 <br>
