@@ -1,10 +1,11 @@
-![pic](https://github.com/user-attachments/assets/139a4ce2-b4ff-4463-815e-a01fd2b8ba21)
 # profile
+![pic](https://github.com/user-attachments/assets/139a4ce2-b4ff-4463-815e-a01fd2b8ba21)
+
 ## I'm Dhanalakshmi👋🏻😊
 
-I am currently pursuing a **B.Tech in Computer Science and Engineering** . I have a strong interest in becoming a **software developer**. 
+- I am currently pursuing a **B.Tech in Computer Science and Engineering** . 
+- I have a strong interest in becoming a **software developer**. 
 
-! [software developer] (C:\Users\manor\Desktop\dhanalakshmi\New Html\pic2.jpg)
 
 ## 🖥️ Technical Skills
 **Programming Languages**:
